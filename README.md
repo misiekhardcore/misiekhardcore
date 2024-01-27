@@ -1,6 +1,4 @@
-## About me
-
-Keep focused, keep curious and the rest will come with time
+Having goals and sticking to them, being committed and focused, will take you wherever you want to be.
 
 <!---
 misiekhardcore/misiekhardcore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
