@@ -1,4 +1,5 @@
 Setting goals and staying committed and focused on them will take you wherever you want to be.
+
 https://konopskiwebdev.vercel.app/
 
 <!---
