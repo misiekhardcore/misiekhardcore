@@ -1,6 +1,5 @@
-Having goals and sticking to them, being committed and focused, will take you wherever you want to be.
-
-Feel free to check out my blog: https://konopskiwebdev.vercel.app/
+Setting goals and staying committed and focused on them will take you wherever you want to be.
+https://konopskiwebdev.vercel.app/
 
 <!---
 misiekhardcore/misiekhardcore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
