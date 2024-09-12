@@ -1,4 +1,4 @@
-Setting goals and staying committed and focused on them will take you wherever you want to be.
+By setting clear goals and staying committed to them, you can achieve anything you set your mind to. Focus, persistence, and a growth mindset are the keys to unlocking your potential.
 
 https://konopskiwebdev.vercel.app/
 
