@@ -1,4 +1,4 @@
-By setting clear goals and staying committed to them, you can achieve anything you set your mind to. Focus, persistence, and a growth mindset are the keys to unlocking your potential.
+Consistency and focus are the key. Clear mind and patience can take you far.
 
 https://konopskiwebdev.vercel.app/
 
